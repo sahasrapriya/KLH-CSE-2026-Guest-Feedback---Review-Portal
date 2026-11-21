@@ -1,1 +1,3 @@
-# KLH-CSE-2026-Guest-Feedback---Review-Portal
+## Abstract
+
+The **Guest Feedback & Review Portal** is a web-based application designed to make it easy for guests to share their experiences, provide feedback, and rate the services they receive. The portal allows guests to submit reviews, give ratings, and share suggestions based on their experience. It also helps the management view and manage customer feedback in one place, making it easier to understand guest opinions and identify areas that need improvement. The main aim of this project is to improve guest satisfaction, maintain service quality, and build better relationships between guests and management through a simple and user-friendly platform.
